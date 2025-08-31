@@ -1,2 +1,0 @@
-# Maze
-Project VScode
